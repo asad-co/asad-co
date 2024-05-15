@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zainjaveddev&title=Mutlilang,Commits,Experience,Repositories,Followers" alt="zainjaveddev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-co&title=Mutlilang,Commits,Experience,Repositories,Followers" alt="asad-co" /></a> </p>
 
 ## Languages and Tools 
 <div>
@@ -38,8 +38,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zainjaveddev&show_icons=true&locale=en&layout=compact" alt="zainjaveddev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-co&show_icons=true&locale=en&layout=compact" alt="asad-co" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zainjaveddev&show_icons=true&locale=en" alt="zainjaveddev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-co&show_icons=true&locale=en" alt="asad-co" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zainjaveddev&" alt="zainjaveddev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-co&" alt="asad-co" /></p>
