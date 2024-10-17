@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Asad</h1>
-<h3 align="center">A software developer and AI enthusa</h3>
+<h3 align="center">A software developer and AI enthusiastic</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-co&title=Mutlilang,Commits,Experience,Repositories,Followers" alt="asad-co" /></a> </p>
