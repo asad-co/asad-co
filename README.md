@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Syed Asad</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
+<h1 align="center">Hey there 👋, I'm Asad</h1>
+<h3 align="center">A software developer and AI enthusa</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-co&title=Mutlilang,Commits,Experience,Repositories,Followers" alt="asad-co" /></a> </p>
@@ -16,9 +16,9 @@
 
 ### My tools for Data Manipulation:
 
-| MariaDB | MongoDB | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|----------|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+| MongoDB | MySQLi |
+|----------|----------|
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>
 
 
 
