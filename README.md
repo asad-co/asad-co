@@ -1,8 +1,48 @@
-<h1 align="center">Hey there 👋, I'm Asad</h1>
+<h3 align="center">Hey there 👋, I'm Asad</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 <h3 align="center">A software developer and AI enthusiastic</h3>
 
+<!-- For profile views, right now its zero :( -->
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=asad-co&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asad-co&title=Mutlilang,Commits,Experience,Repositories,Followers" alt="asad-co" /></a> </p>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=asad-co&theme=algolia&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-co&theme=radical&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asad-co&theme=gotham&hide_border=false&no-bg=false&no-frame=true&langs_count=20&hide=html"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=asad-co&theme=radical&row=10&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Languages and Tools 
 <div>
@@ -38,8 +78,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-co&show_icons=true&locale=en&layout=compact" alt="asad-co" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-co&show_icons=true&locale=en" alt="asad-co" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-co&" alt="asad-co" /></p>
