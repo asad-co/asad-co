@@ -21,15 +21,17 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats-git-master-asad-cos-projects.vercel.app/api?username=asad-co&theme=algolia&show_icons=true&count_private=true" />
+
+
+  <img  align="center"  src="https://github-readme-stats-nine-sand-37.vercel.app
+/api?username=asad-co&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-co&theme=radical&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=asad-co&theme=gotham&hide_border=false&no-bg=false&no-frame=true&langs_count=20&hide=html"/>
+  <img  align="center"  src="https://github-readme-stats-nine-sand-37.vercel.app/api/top-langs/?username=asad-co&theme=gotham&hide_border=false&no-bg=false&no-frame=true&hide=html,css&langs_count=20"/>
   
   </td>
 </tr>
@@ -92,7 +94,8 @@
 
 | Mac OS | Linux | Windows | 
 |----------|----------|----------|
-| <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" title="MacOS" alt="MacOS" width="55" height="55"/> | <img src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| <img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" title="MacOS" alt="MacOS" width="55" height="55"/> | <img style='background:red;border-radius:' src="https://upload.vectorlogo.zone/logos/kali/images/99996646-d340-4b8f-b820-e25525048e9c.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
