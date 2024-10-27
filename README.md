@@ -23,8 +23,7 @@
 <td width="50%" align="center">
 
 
-  <img  align="center"  src="https://github-readme-stats-nine-sand-37.vercel.app
-/api?username=asad-co&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img  align="center"  src="https://github-readme-stats-git-master-asad-cos-projects.vercel.app/api?username=asad-co&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-co&theme=radical&hide_border=false" /> 
 </td>
