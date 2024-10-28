@@ -8,7 +8,7 @@
 
 <div align="center">
   
-![snake gif](https://github.com/asad-co/asad-co/blob/output/github-snake.svg)
+![snake gif](https://github.com/asad-co/asad-co/blob/output/ocean.gif)
 
 </div>
 
