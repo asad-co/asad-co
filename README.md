@@ -31,7 +31,7 @@
 
   <img  align="center"  src="https://github-readme-stats-git-master-asad-cos-projects.vercel.app/api?username=asad-co&include_all_commits=true&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-co&theme=radical&hide_border=false" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asad-co&theme=radical&background=45%2C000000%2C290000&border=EB5454&ring=B72C2C&stroke=EB9797&fire=D5EB00" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
