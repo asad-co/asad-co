@@ -36,7 +36,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-nine-sand-37.vercel.app/api/top-langs/?username=asad-co&theme=gotham&hide_border=false&no-bg=false&no-frame=true&hide=html,css,shell,dockerfile,Inno%20Setup&langs_count=20"/>
+  <img  align="center"  src="https://github-readme-stats-nine-sand-37.vercel.app/api/top-langs/?username=asad-co&theme=gotham&hide_border=false&no-bg=false&no-frame=true&hide=html,css,shell,dockerfile,Inno%20Setup,Jupyter%20Notebook&langs_count=20"/>
   
   </td>
 </tr>
