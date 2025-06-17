@@ -18,9 +18,12 @@
 
 <h3 align="center">A software developer and AI enthusiastic</h3>
 
-<!-- For profile views, right now its zero :( -->
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=asad-co&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p> -->
+<!-- For profile views -->
+<div align=center>
 
+![Profile views](https://count.getloli.com/@asad-co?name=asad-co&theme=random&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto)
+
+</div>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
