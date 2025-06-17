@@ -21,7 +21,7 @@
 <!-- For profile views -->
 <div align=center>
 
-![Profile views](https://count.getloli.com/@asad-co?name=asad-co&theme=random&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto)
+![Profile views](https://count.getloli.com/@asad-co?name=asad-co&theme=nixietube-1&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto)
 
 </div>
 <!--- stats & Trophy (start) -->
