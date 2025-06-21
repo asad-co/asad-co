@@ -18,7 +18,6 @@
 
 <h3 align="center">A software developer and AI enthusiastic</h3>
 
-<!-- For profile views -->
 <div align=center>
 
 ![Profile views](https://count.getloli.com/@asad-co?name=asad-co&theme=nixietube-1&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto)
