@@ -77,14 +77,6 @@
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="220" height="220" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
-### DataBases:
-
-| MongoDB | Firebase| MySql|
-|----------|----------|----------|
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>
-
-
-
   
 ### Environments, Testing, Other:
 
