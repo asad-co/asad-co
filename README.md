@@ -41,6 +41,8 @@
   </td>
 </tr>
 </table>
+
+
 <!--- stats (end) -->
 
 <div align=center>
@@ -49,10 +51,12 @@
     </a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://graph-github-contribution.vercel.app/graph?username=asad-co&bg_color=2E0000&color=FFB8B8&line=FFEB0A&point=FFBE0A&area_color=08CFBB&area=true&hide_border=true&custom_title=My%20Github%20Contribution%20Graph&radius=20&days=30" alt="GitHub Activity Graph" />
+</div>
 </p>        
-
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
