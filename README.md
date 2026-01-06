@@ -31,7 +31,7 @@
 
   <img  align="center"  src="https://github-readme-stats-git-master-asad-cos-projects.vercel.app/api?username=asad-co&include_all_commits=true&theme=algolia&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asad-co&theme=radical&background=45%2C000000%2C290000&border=EB5454&ring=B72C2C&stroke=EB9797&fire=D5EB00" alt="GitHub Streak" />
+  <img src="https://streak-stats-vercel.vercel.app?user=asad-co&theme=radical&background=45%2C000000%2C290000&border=EB5454&ring=B72C2C&stroke=EB9797&fire=D5EB00" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">
@@ -45,7 +45,7 @@
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=asad-co&theme=radical&row=10&column=7&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" />
+      <img align="center" width=84% src="https://trophy-stats.vercel.app/?username=asad-co&theme=radical&row=10&column=7&margin-h=15&margin-w=5&no-bg=false" alt="TROPHY" />
     </a>
 </div>
 
